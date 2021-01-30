@@ -1,0 +1,7 @@
+D:\C#\Better Calculator\bin\Debug\Better Calculator.exe.config
+D:\C#\Better Calculator\bin\Debug\Better Calculator.exe
+D:\C#\Better Calculator\bin\Debug\Better Calculator.pdb
+D:\C#\Better Calculator\obj\Debug\Better Calculator.csproj.CoreCompileInputs.cache
+D:\C#\Better Calculator\obj\Debug\Better Calculator.exe
+D:\C#\Better Calculator\obj\Debug\Better Calculator.pdb
+D:\C#\Better Calculator\obj\Debug\Better Calculator.csprojAssemblyReference.cache

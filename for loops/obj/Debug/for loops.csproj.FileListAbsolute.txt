@@ -1,0 +1,7 @@
+D:\C#\for loops\bin\Debug\for loops.exe.config
+D:\C#\for loops\bin\Debug\for loops.exe
+D:\C#\for loops\bin\Debug\for loops.pdb
+D:\C#\for loops\obj\Debug\for loops.csproj.CoreCompileInputs.cache
+D:\C#\for loops\obj\Debug\for loops.exe
+D:\C#\for loops\obj\Debug\for loops.pdb
+D:\C#\for loops\obj\Debug\for loops.csprojAssemblyReference.cache

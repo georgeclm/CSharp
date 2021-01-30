@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\newtry\newtry\bin\Debug\newtry.exe.config
+C:\Users\User\source\repos\newtry\newtry\bin\Debug\newtry.exe
+C:\Users\User\source\repos\newtry\newtry\bin\Debug\newtry.pdb
+C:\Users\User\source\repos\newtry\newtry\obj\Debug\newtry.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\newtry\newtry\obj\Debug\newtry.exe
+C:\Users\User\source\repos\newtry\newtry\obj\Debug\newtry.pdb
+C:\Users\User\source\repos\newtry\newtry\obj\Debug\newtry.csprojAssemblyReference.cache

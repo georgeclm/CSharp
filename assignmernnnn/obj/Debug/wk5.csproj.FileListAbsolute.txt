@@ -1,0 +1,2 @@
+D:\C#\assignmernnnn\obj\Debug\wk5.csprojAssemblyReference.cache
+D:\C#\assignmernnnn\obj\Debug\wk5.csproj.CoreCompileInputs.cache

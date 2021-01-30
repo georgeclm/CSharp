@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\obj\Debug\Prog_assignment_timer_stopwatch.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\obj\Debug\Prog_assignment_timer_stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\bin\Debug\Prog_assignment_timer_stopwatch.exe.config
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\bin\Debug\Prog_assignment_timer_stopwatch.exe
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\bin\Debug\Prog_assignment_timer_stopwatch.pdb
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\obj\Debug\Prog_assignment_timer_stopwatch.exe
+C:\Users\User\source\repos\Prog_assignment_timer_stopwatch\obj\Debug\Prog_assignment_timer_stopwatch.pdb

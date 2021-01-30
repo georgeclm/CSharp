@@ -1,0 +1,7 @@
+D:\C#\Week3\bin\Debug\Week3.exe.config
+D:\C#\Week3\bin\Debug\Week3.exe
+D:\C#\Week3\bin\Debug\Week3.pdb
+D:\C#\Week3\obj\Debug\Week3.csprojAssemblyReference.cache
+D:\C#\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+D:\C#\Week3\obj\Debug\Week3.exe
+D:\C#\Week3\obj\Debug\Week3.pdb

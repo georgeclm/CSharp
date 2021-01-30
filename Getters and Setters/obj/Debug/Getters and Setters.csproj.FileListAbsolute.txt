@@ -1,0 +1,7 @@
+D:\C#\Getters and Setters\bin\Debug\Getters and Setters.exe.config
+D:\C#\Getters and Setters\bin\Debug\Getters and Setters.exe
+D:\C#\Getters and Setters\bin\Debug\Getters and Setters.pdb
+D:\C#\Getters and Setters\obj\Debug\Getters and Setters.csprojAssemblyReference.cache
+D:\C#\Getters and Setters\obj\Debug\Getters and Setters.csproj.CoreCompileInputs.cache
+D:\C#\Getters and Setters\obj\Debug\Getters and Setters.exe
+D:\C#\Getters and Setters\obj\Debug\Getters and Setters.pdb

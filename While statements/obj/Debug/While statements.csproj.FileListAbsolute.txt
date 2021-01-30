@@ -1,0 +1,7 @@
+D:\C#\While statements\bin\Debug\While statements.exe.config
+D:\C#\While statements\bin\Debug\While statements.exe
+D:\C#\While statements\bin\Debug\While statements.pdb
+D:\C#\While statements\obj\Debug\While statements.csproj.CoreCompileInputs.cache
+D:\C#\While statements\obj\Debug\While statements.exe
+D:\C#\While statements\obj\Debug\While statements.pdb
+D:\C#\While statements\obj\Debug\While statements.csprojAssemblyReference.cache

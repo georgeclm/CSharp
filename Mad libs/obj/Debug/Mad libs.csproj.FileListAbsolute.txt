@@ -1,0 +1,7 @@
+D:\C#\Mad libs\bin\Debug\Mad libs.exe.config
+D:\C#\Mad libs\bin\Debug\Mad libs.exe
+D:\C#\Mad libs\bin\Debug\Mad libs.pdb
+D:\C#\Mad libs\obj\Debug\Mad libs.csprojAssemblyReference.cache
+D:\C#\Mad libs\obj\Debug\Mad libs.csproj.CoreCompileInputs.cache
+D:\C#\Mad libs\obj\Debug\Mad libs.exe
+D:\C#\Mad libs\obj\Debug\Mad libs.pdb

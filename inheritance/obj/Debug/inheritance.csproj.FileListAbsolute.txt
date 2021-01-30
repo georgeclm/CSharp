@@ -1,0 +1,6 @@
+D:\C#\inheritance\bin\Debug\inheritance.exe.config
+D:\C#\inheritance\bin\Debug\inheritance.exe
+D:\C#\inheritance\bin\Debug\inheritance.pdb
+D:\C#\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\C#\inheritance\obj\Debug\inheritance.exe
+D:\C#\inheritance\obj\Debug\inheritance.pdb

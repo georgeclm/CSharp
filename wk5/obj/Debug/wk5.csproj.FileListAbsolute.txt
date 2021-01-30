@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\wk5\bin\Debug\wk5.exe.config
+C:\Users\User\source\repos\wk5\bin\Debug\wk5.exe
+C:\Users\User\source\repos\wk5\bin\Debug\wk5.pdb
+C:\Users\User\source\repos\wk5\obj\Debug\wk5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\wk5\obj\Debug\wk5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wk5\obj\Debug\wk5.exe
+C:\Users\User\source\repos\wk5\obj\Debug\wk5.pdb
+D:\C#\wk5\bin\Debug\wk5.exe.config
+D:\C#\wk5\bin\Debug\wk5.exe
+D:\C#\wk5\bin\Debug\wk5.pdb
+D:\C#\wk5\obj\Debug\wk5.csprojAssemblyReference.cache
+D:\C#\wk5\obj\Debug\wk5.csproj.CoreCompileInputs.cache
+D:\C#\wk5\obj\Debug\wk5.exe
+D:\C#\wk5\obj\Debug\wk5.pdb

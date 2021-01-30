@@ -1,0 +1,7 @@
+D:\C#\wk6\bin\Debug\wk6.exe.config
+D:\C#\wk6\bin\Debug\wk6.exe
+D:\C#\wk6\bin\Debug\wk6.pdb
+D:\C#\wk6\obj\Debug\wk6.csprojAssemblyReference.cache
+D:\C#\wk6\obj\Debug\wk6.csproj.CoreCompileInputs.cache
+D:\C#\wk6\obj\Debug\wk6.exe
+D:\C#\wk6\obj\Debug\wk6.pdb

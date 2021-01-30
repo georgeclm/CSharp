@@ -1,0 +1,7 @@
+D:\C#\Object Methods\bin\Debug\Object Methods.exe.config
+D:\C#\Object Methods\bin\Debug\Object Methods.exe
+D:\C#\Object Methods\bin\Debug\Object Methods.pdb
+D:\C#\Object Methods\obj\Debug\Object Methods.csprojAssemblyReference.cache
+D:\C#\Object Methods\obj\Debug\Object Methods.csproj.CoreCompileInputs.cache
+D:\C#\Object Methods\obj\Debug\Object Methods.exe
+D:\C#\Object Methods\obj\Debug\Object Methods.pdb

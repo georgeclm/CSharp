@@ -1,0 +1,7 @@
+D:\C#\wk12\bin\Debug\wk12.exe.config
+D:\C#\wk12\bin\Debug\wk12.exe
+D:\C#\wk12\bin\Debug\wk12.pdb
+D:\C#\wk12\obj\Debug\wk12.csprojAssemblyReference.cache
+D:\C#\wk12\obj\Debug\wk12.csproj.CoreCompileInputs.cache
+D:\C#\wk12\obj\Debug\wk12.exe
+D:\C#\wk12\obj\Debug\wk12.pdb

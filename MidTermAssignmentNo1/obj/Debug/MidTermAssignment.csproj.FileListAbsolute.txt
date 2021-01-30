@@ -1,0 +1,7 @@
+D:\C#\MidTermAssignment\bin\Debug\MidTermAssignment.exe.config
+D:\C#\MidTermAssignment\bin\Debug\MidTermAssignment.exe
+D:\C#\MidTermAssignment\bin\Debug\MidTermAssignment.pdb
+D:\C#\MidTermAssignment\obj\Debug\MidTermAssignment.csprojAssemblyReference.cache
+D:\C#\MidTermAssignment\obj\Debug\MidTermAssignment.csproj.CoreCompileInputs.cache
+D:\C#\MidTermAssignment\obj\Debug\MidTermAssignment.exe
+D:\C#\MidTermAssignment\obj\Debug\MidTermAssignment.pdb

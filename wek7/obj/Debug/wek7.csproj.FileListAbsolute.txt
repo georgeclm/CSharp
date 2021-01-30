@@ -1,0 +1,7 @@
+D:\C#\wek7\bin\Debug\wek7.exe.config
+D:\C#\wek7\bin\Debug\wek7.exe
+D:\C#\wek7\bin\Debug\wek7.pdb
+D:\C#\wek7\obj\Debug\wek7.csprojAssemblyReference.cache
+D:\C#\wek7\obj\Debug\wek7.csproj.CoreCompileInputs.cache
+D:\C#\wek7\obj\Debug\wek7.exe
+D:\C#\wek7\obj\Debug\wek7.pdb

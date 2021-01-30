@@ -1,0 +1,7 @@
+D:\C#\Static Class Attribute\bin\Debug\Static Class Attribute.exe.config
+D:\C#\Static Class Attribute\bin\Debug\Static Class Attribute.exe
+D:\C#\Static Class Attribute\bin\Debug\Static Class Attribute.pdb
+D:\C#\Static Class Attribute\obj\Debug\Static Class Attribute.csproj.CoreCompileInputs.cache
+D:\C#\Static Class Attribute\obj\Debug\Static Class Attribute.exe
+D:\C#\Static Class Attribute\obj\Debug\Static Class Attribute.pdb
+D:\C#\Static Class Attribute\obj\Debug\Static Class Attribute.csprojAssemblyReference.cache

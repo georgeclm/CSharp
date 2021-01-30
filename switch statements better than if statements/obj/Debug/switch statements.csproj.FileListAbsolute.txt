@@ -1,0 +1,6 @@
+D:\C#\switch statements\bin\Debug\switch statements.exe.config
+D:\C#\switch statements\bin\Debug\switch statements.exe
+D:\C#\switch statements\bin\Debug\switch statements.pdb
+D:\C#\switch statements\obj\Debug\switch statements.csproj.CoreCompileInputs.cache
+D:\C#\switch statements\obj\Debug\switch statements.exe
+D:\C#\switch statements\obj\Debug\switch statements.pdb

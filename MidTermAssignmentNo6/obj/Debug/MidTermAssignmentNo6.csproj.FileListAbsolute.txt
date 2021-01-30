@@ -1,0 +1,7 @@
+D:\C#\MidTermAssignmentNo6\bin\Debug\MidTermAssignmentNo6.exe.config
+D:\C#\MidTermAssignmentNo6\bin\Debug\MidTermAssignmentNo6.exe
+D:\C#\MidTermAssignmentNo6\bin\Debug\MidTermAssignmentNo6.pdb
+D:\C#\MidTermAssignmentNo6\obj\Debug\MidTermAssignmentNo6.csprojAssemblyReference.cache
+D:\C#\MidTermAssignmentNo6\obj\Debug\MidTermAssignmentNo6.csproj.CoreCompileInputs.cache
+D:\C#\MidTermAssignmentNo6\obj\Debug\MidTermAssignmentNo6.exe
+D:\C#\MidTermAssignmentNo6\obj\Debug\MidTermAssignmentNo6.pdb

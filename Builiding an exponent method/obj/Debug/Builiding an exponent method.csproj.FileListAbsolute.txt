@@ -1,0 +1,7 @@
+D:\C#\Builiding an exponent method\bin\Debug\Builiding an exponent method.exe.config
+D:\C#\Builiding an exponent method\bin\Debug\Builiding an exponent method.exe
+D:\C#\Builiding an exponent method\bin\Debug\Builiding an exponent method.pdb
+D:\C#\Builiding an exponent method\obj\Debug\Builiding an exponent method.csprojAssemblyReference.cache
+D:\C#\Builiding an exponent method\obj\Debug\Builiding an exponent method.csproj.CoreCompileInputs.cache
+D:\C#\Builiding an exponent method\obj\Debug\Builiding an exponent method.exe
+D:\C#\Builiding an exponent method\obj\Debug\Builiding an exponent method.pdb

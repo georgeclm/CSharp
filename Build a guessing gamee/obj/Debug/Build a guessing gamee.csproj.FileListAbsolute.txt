@@ -1,0 +1,7 @@
+D:\C#\Build a guessing gamee\bin\Debug\Build a guessing gamee.exe.config
+D:\C#\Build a guessing gamee\bin\Debug\Build a guessing gamee.exe
+D:\C#\Build a guessing gamee\bin\Debug\Build a guessing gamee.pdb
+D:\C#\Build a guessing gamee\obj\Debug\Build a guessing gamee.csproj.CoreCompileInputs.cache
+D:\C#\Build a guessing gamee\obj\Debug\Build a guessing gamee.exe
+D:\C#\Build a guessing gamee\obj\Debug\Build a guessing gamee.pdb
+D:\C#\Build a guessing gamee\obj\Debug\Build a guessing gamee.csprojAssemblyReference.cache

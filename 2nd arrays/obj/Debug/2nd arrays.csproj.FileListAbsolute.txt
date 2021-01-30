@@ -1,0 +1,7 @@
+D:\C#\2nd arrays\bin\Debug\2nd arrays.exe.config
+D:\C#\2nd arrays\bin\Debug\2nd arrays.exe
+D:\C#\2nd arrays\bin\Debug\2nd arrays.pdb
+D:\C#\2nd arrays\obj\Debug\2nd arrays.csproj.CoreCompileInputs.cache
+D:\C#\2nd arrays\obj\Debug\2nd arrays.exe
+D:\C#\2nd arrays\obj\Debug\2nd arrays.pdb
+D:\C#\2nd arrays\obj\Debug\2nd arrays.csprojAssemblyReference.cache

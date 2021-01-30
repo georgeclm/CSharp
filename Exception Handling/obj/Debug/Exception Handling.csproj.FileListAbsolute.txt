@@ -1,0 +1,6 @@
+D:\C#\Exception Handling\bin\Debug\Exception Handling.exe.config
+D:\C#\Exception Handling\bin\Debug\Exception Handling.exe
+D:\C#\Exception Handling\bin\Debug\Exception Handling.pdb
+D:\C#\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+D:\C#\Exception Handling\obj\Debug\Exception Handling.exe
+D:\C#\Exception Handling\obj\Debug\Exception Handling.pdb
